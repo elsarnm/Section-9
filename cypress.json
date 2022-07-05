@@ -1,0 +1,6 @@
+{
+    "fixturesFolder": false,
+    "pluginsFile": false,
+    "chromeWebSecurity": true,
+    "video": false
+}
